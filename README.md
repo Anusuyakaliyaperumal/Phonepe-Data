@@ -1,5 +1,5 @@
 
-Phone Pulse Data Visualization 
+**Phone Pulse Data Visualization **
 
 Table of Contents
 	• [Overview]
