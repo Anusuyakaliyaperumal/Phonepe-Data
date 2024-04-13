@@ -1,5 +1,4 @@
-![image](https://github.com/Anusuyakaliyaperumal/Phonepe-Data/assets/155943453/e4f1e0fb-3119-45c9-a4cc-06cd50510c95)
-******Phone Pulse Data Visualization ******
+************Phone Pulse Data Visualization ************
 
 **Table of Contents**
 	• [Overview]
